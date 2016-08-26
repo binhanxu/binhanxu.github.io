@@ -9,12 +9,13 @@ p {
     color: #333;
 }
 
-
-ul.posts { 
-    margin: 20px auto 40px; 
-    font-size: 1.5em;
+nav.img {
+    margin-top:2cm;
+    margin-left:2cm;
 }
 
-ul.posts li {
-    list-style: none;
+
+nav.a {
+    margin-left:2cm;
 }
+
