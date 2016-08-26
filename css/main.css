@@ -10,7 +10,7 @@ content {
 .w3-display-container img {
     opacity: 0.5;
     filter: alpha(opacity=50); /* For IE8 and earlier */
-    width: 300px; 
+    width: 600px; 
     height: 100px;
 }
 
