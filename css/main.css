@@ -4,7 +4,7 @@ content {
 }
 
 .w3-sidenav img{margin-top:25px;margin-left:25px;width:50%}
-.w3-sidenav a{margin-left:20px;}
+.w3-sidenav a{margin-left:20px;font:20px Raleway, sans-serif}
 
 p {
     font-size: 1.5em;
