@@ -3,7 +3,7 @@ content {
     width: 50%;
 }
 
-.w3-sidenav img{margin-top:50px;margin-left:50px}
+.w3-sidenav img{margin-top:25px;margin-left:25px;width:50%}
 
 p {
     font-size: 1.5em;
