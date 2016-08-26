@@ -7,6 +7,11 @@ content {
 .w3-sidenav a{margin-left:20px;font:17px Raleway, sans-serif}
 .w3-sidenav h4{margin-left:20px;font-style: italic}
 
+.w3-container img {
+    opacity: 0.5;
+    filter: alpha(opacity=50); /* For IE8 and earlier */
+}
+
 p {
     font-size: 1.5em;
     line-height: 1.4em;
