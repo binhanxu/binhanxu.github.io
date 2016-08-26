@@ -9,13 +9,13 @@ p {
     color: #333;
 }
 
-nav.img {
+.nav img {
     margin-top:2cm;
     margin-left:2cm;
 }
 
 
-nav.a {
+.nav a {
     margin-left:2cm;
 }
 
