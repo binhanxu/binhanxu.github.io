@@ -3,24 +3,6 @@ content {
     width: 50%;
 }
 
-a{color: blue !important;}
-a:link {
-    text-decoration: none!important;
-}
-
-a:visited {
-    text-decoration: none!important;
-}
-
-a:hover {
-    text-decoration: underline!important;
-}
-
-a:active {
-    text-decoration: underline!important;
-}
-
-
 .w3-sidenav img{margin-top:25px;margin-left:25px;width:50%}
 .w3-sidenav a{margin-left:20px;font:17px Raleway, sans-serif}
 .w3-sidenav h4{margin-left:20px;font-style: italic}
@@ -31,7 +13,20 @@ a:active {
     width: 1050px; 
     height: 300px;
 }
-.my-icon a{font:10px Raleway, sans-serif}
+.my-icon a{font:5px Raleway, sans-serif}
+.my-icon a{color: blue !important;}
+.my-icon a:link {
+    text-decoration: none!important;
+}
+.my-icon a:visited {
+    text-decoration: none!important;
+}
+.my-icon a:hover {
+    text-decoration: underline!important;
+}
+.my-icon a:active {
+    text-decoration: underline!important;
+}
 
 
 p {
