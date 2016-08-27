@@ -16,7 +16,7 @@ content {
 
 .my-list a{color:blue;}
 
-.my-icon a{font:10px Raleway, sans-serif}
+.my-icon a{font:10px Raleway, sans-serif;color:blue}
 .my-list .my-icon a:link {
     text-decoration: none!important;
 }
@@ -24,9 +24,6 @@ content {
     text-decoration: none!important;
 }
 .my-list .my-icon a:hover {
-    text-decoration: underline!important;
-}
-.my-list .my-icon a:active {
     text-decoration: underline!important;
 }
 
