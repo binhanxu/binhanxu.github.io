@@ -9,10 +9,10 @@ content {
 
 .w3-container {background-image: url("/css/b3.jpg")}
 .w3-display-container img {
-    opacity: 0.7;
+    opacity: 0.8;
     filter: alpha(opacity=50); /* For IE8 and earlier */
     width: 1200px; 
-    height: 300px;
+    height: 200px;
 }
 
 p {
