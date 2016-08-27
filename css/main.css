@@ -6,7 +6,7 @@ content {
 .w3-sidenav img{margin-top:25px;margin-left:25px;width:50%}
 .w3-sidenav a{margin-left:20px;font:17px Raleway, sans-serif}
 .w3-sidenav h4{margin-left:20px;font-style: italic}
-.w3-container {margin-top:50px;margin-left:30%;margin-right:6%}
+.w3-container {margin-top:50px;margin-bottom:50px;margin-left:30%;margin-right:6%}
 
 .w3-display-container img {
     opacity: 0.8;
