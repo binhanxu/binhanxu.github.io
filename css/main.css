@@ -13,7 +13,7 @@ content {
     width: 1050px; 
     height: 300px;
 }
-.my-icon a{font:5px Raleway, sans-serif}
+.my-icon a{font:12px Raleway, sans-serif}
 .my-icon a{color: blue !important;}
 .my-icon a:link {
     text-decoration: none!important;
