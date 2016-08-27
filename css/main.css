@@ -23,6 +23,12 @@ content {
 .my-list .my-icon a:visited {
     text-decoration: none!important;
 }
+.my-list .my-icon a:hover {
+    text-decoration: none!important;
+}
+.my-list .my-icon a:active {
+    text-decoration: none!important;
+}
 
 
 p {
