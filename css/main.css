@@ -14,20 +14,31 @@ content {
     height: 300px;
 }
 
-.my-list a{color:blue;}
+.my-icon a{font:10px Raleway, sans-serif;}
+.my-icon a:link {
+    text-decoration: none!important;
+}
+.my-icon a:visited {
+    text-decoration: none!important;
+}
+.my-icon a:hover {
+    text-decoration: underline!important;
+}
+.my-icon a:active {
+    text-decoration: underline!important;
+}
 
-.my-icon a{font:10px Raleway, sans-serif;color:blue}
-.my-list .my-icon a:link {
+.my-list a:link {
     text-decoration: none!important;
 }
-.my-list .my-icon a:visited {
+.my-list a:visited {
     text-decoration: none!important;
 }
-.my-list .my-icon a:hover {
-    text-decoration: none!important;
+.my-list a:hover {
+    text-decoration: underline!important;
 }
-.my-list .my-icon a:active {
-    text-decoration: none!important;
+.my-list a:active {
+    text-decoration: underline!important;
 }
 
 
