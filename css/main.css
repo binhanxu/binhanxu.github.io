@@ -43,6 +43,12 @@ content {
 
 .my-card {
   display: inline-block;
+  width:400px;  
+}
+
+iframe {
+  width:400px;
+  height:200px;  
 }
 
 p {
