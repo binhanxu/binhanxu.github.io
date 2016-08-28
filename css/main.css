@@ -42,6 +42,8 @@ content {
 }
 
 .my-card {
+  margin-left: auto;
+  margin-right: auto;
   display: inline-block;
   width:350px;  
 }
