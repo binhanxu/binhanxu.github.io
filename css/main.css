@@ -41,6 +41,9 @@ content {
     text-decoration: underline!important;
 }
 
+.my-card {
+  display: inline-block;
+}
 
 p {
     font-size: 1.5em;
