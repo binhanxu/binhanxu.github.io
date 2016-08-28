@@ -41,9 +41,14 @@ content {
     text-decoration: underline!important;
 }
 
+div {
+width: 100%;
+height: auto;
+}
+
 .my-card {
 
-  padding:10px;
+  padding:15px;
   display: inline-block;
   width:350px;  
 }
@@ -53,7 +58,7 @@ content {
 }
 
 
-iframe {
+.my-card iframe {
   width:350px;
   height:175px;  
 }
