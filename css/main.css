@@ -59,6 +59,15 @@ content {
   height:175px;  
 }
 
+.my-card-2 {
+  width:500px;  
+}
+
+.my-card-2 iframe {
+  width:500px;
+  height:250px;  
+}
+
 p {
     font-size: 1.5em;
     line-height: 1.4em;
