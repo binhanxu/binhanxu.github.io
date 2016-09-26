@@ -1,0 +1,10 @@
+name: "Binhan Website"
+safe: true
+lsi: false
+host: localhost
+port: 4001
+description: Sample description
+highlighter: pygments
+url: http://binhanxu.github.io
+gems: [jekyll-gist]
+markdown: kramdown
