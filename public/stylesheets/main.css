@@ -24,7 +24,7 @@ body
     color:#444;
 }
 
-.social-icon
+.social-icon.center.aligned.column
 {
     letter-spacing: 5px;
 }
