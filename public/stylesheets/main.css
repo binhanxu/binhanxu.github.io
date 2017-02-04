@@ -19,11 +19,11 @@ body
     font-size: 1.35em;
 }
 
-.social{
+.social-icon.social{
     color:#444 !important;
 }
 
-.social-icon.center.aligned.column
+.social-icon
 {
     letter-spacing: 5px;
 }
