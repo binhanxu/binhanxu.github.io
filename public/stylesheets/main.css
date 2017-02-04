@@ -19,12 +19,8 @@ body
     font-size: 1.35em;
 }
 
-.fa-lg.fa.social
-{
-    color:#444;
-}
-
 .social-icon.center.aligned.column
 {
+    color:#444;
     letter-spacing: 5px;
 }
