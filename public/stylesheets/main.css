@@ -19,8 +19,11 @@ body
     font-size: 1.35em;
 }
 
+.social-icon{
+    color:#444 !important;
+}
+
 .social-icon.center.aligned.column
 {
-    color:#444;
     letter-spacing: 5px;
 }
